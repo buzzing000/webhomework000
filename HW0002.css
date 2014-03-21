@@ -1,0 +1,124 @@
+body{
+  background:url(http://subtlepatterns.com/patterns/light_grey.png) repeat;
+}
+.souvenir{
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  width:960px;
+  padding: 1em;
+  background: white;
+  border-radius:0.3em;
+  box-shadow: rgb(189, 189, 189) 0px 1px 5px 0px;
+  font-family: '微軟正黑體', sans-serif;
+}
+.toplink li{
+  float: right;
+  font-size:12px;
+  margin-top: -30px;
+  display: inline-block;
+  padding: 3px 30px;
+  margin:10px 5px ;
+  letter-spacing: 0.5px;
+  background:whitesmoke;
+  border-radius:0.2pxem;
+  box-shadow: rgb(189, 189, 189) 0px 1px 5px 0px;
+}
+.toplink li:hover {   
+  background: #778899;
+}
+.a1:link{
+  text-decoration: none;
+  color: #778899;
+}
+.a1:visited{
+  color: #778899;
+}
+.a1:hover{
+  text-decoration:none;
+  color: white;
+  }
+h1{
+color:LightCoral  ;
+font-size:50px;
+margin-bottom:0px;
+/*background-image:url(http://secrt.nccu.edu.tw/web/pic/pro/coaller2.jpg) ;
+background-position:130px;
+*/
+}
+i{
+font-size:30px;
+}
+.imgban img{
+width:100%; 
+height:200px;
+}
+.mainmenu li{
+  display: inline-block;
+  font-size: 16px;
+  background-color: whitesmoke;
+  padding: 5px 30px;
+  margin:0px 3px ;
+  letter-spacing: 0.5px;
+  border-radius:0.3px;
+  box-shadow: rgb(189, 189, 189) 0px 1px 5px 0px;
+}
+.a2:link{
+  text-decoration: none;
+  color: black;
+}
+.a2:visited{
+  color: LightCoral;
+}
+.a2:hover{
+  text-decoration:none;
+  color: LightCoral;
+  }
+  
+.leftbox{
+  float:left;
+  padding:60px 20px 80px 5px  ;
+  background:url(http://subtlepatterns.com/patterns/squared_metal.png) repeat;
+  border-radius:0;
+}
+.leftbox li a:link{
+  text-decoration: none;
+  color: black;
+}
+.leftbox li a:hover{
+  color:LightCoral;
+}
+.news{
+  display:block;
+  width:600px;
+  float:left;
+  padding:30px ;
+}
+.lastbox{
+	display:block;
+	position:center;
+	margin:10px 100px 0px 100px;
+	padding:10px 20px 80px 5px  ;
+}
+.lastbox li{
+  position:center;
+  margin-bottom: -30px;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+footer{
+	background-image:url(http://subtlepatterns.com/patterns/nami.png);
+	display:block;
+	font: 16px/1.5 monospace;
+	font-family: "微軟正黑體"; font-size: 12px/1.5 monospace; color: #FFFFFF;text-decoration: none;
+	text-align:center;
+	width:960px;
+	position: relative;margin-top: -20px;height: 20px;
+	
+}
